@@ -24,48 +24,11 @@
 
 - 💬 Talk to me about HTML5, CSS3, Freelancing Opportunites, Open Source 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-### 👉 Languages
-
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>**REACT JS**<br><br>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>**JAVASCRIPT**<br><br>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> **CSS3**<br><br>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg?logo=html'> **HTML5**<br><br>
-
- ### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
- </p>
-
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-
 <br>
 <hr>
-
-  <br>
-  
+<br>
+<h2> Stats </h2>
+ 
 [![Fang's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HeyFang&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Fang's github stats](https://github-readme-stats.vercel.app/api?username=HeyFang&show_icons=true&theme=tokyonight) | ![Fang GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeyFang&theme=tokyonight) |
@@ -73,5 +36,5 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyFang&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=HeyFang&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <br>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=HeyFang&theme=tokyonight" />
+<h3 align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</h3><br>
+<img src="https://github-profile-trophy.vercel.app/?username=HeyFang&theme=tokyonight" align="center"/>
